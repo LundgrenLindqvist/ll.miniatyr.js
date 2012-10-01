@@ -1,7 +1,7 @@
 #ll.miniatyr.js
 
     By: Lundgren+Lindqvist
-    http://development.lundgrenlindqvist.se
+    http://dev.lundgrenlindqvist.se
 
 ## Introduction
 
@@ -13,8 +13,8 @@ The algorithm in Miniatyr calculates the optimal size for any number of square t
     * 'element' (each miniture, for instance 'img')  
     * 'margin'
 
-* Miniatyr expects your miniatures to float with an even margin within the parent.
+* Miniatyr expects your miniatures to de floated with an even margin within the parent.
 
 ## Demo
 
-http://development.lundgrenlindqvist.se/scripts/miniatyr/
+http://dev.lundgrenlindqvist.se/scripts/miniatyr/
