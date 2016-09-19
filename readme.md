@@ -1,7 +1,7 @@
 #ll.miniatyr.js
 
     By: Lundgren+Lindqvist
-    http://dev.lundgrenlindqvist.se
+    http://lundgrenlindqvist.se/development
 
 ## Introduction
 
@@ -17,4 +17,4 @@ The algorithm in Miniatyr calculates the optimal size for any number of square t
 
 ## Demo
 
-http://dev.lundgrenlindqvist.se/scripts/miniatyr/
+http://lundgrenlindqvist.se/scripts/miniatyr/
